@@ -1,0 +1,6 @@
+# Ignore system files and directories
+/AppData/
+*.log
+*.dat
+*.ini
+
